@@ -23,6 +23,8 @@ public class Test {
             run.setColor("0000FF");
 /*Test Java klasörü*/
 
+            /* Deneme*/
+
 
 
             document.write(fileOutputStream);
